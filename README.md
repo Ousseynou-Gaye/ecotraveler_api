@@ -170,7 +170,7 @@ DEBUG=True
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 ```
 PROJET FLASK/
@@ -689,7 +689,7 @@ Ce projet est un projet académique réalisé dans le cadre d'un examen de fin d
 
 ---
 
-## 🙏 Remerciements
+##  Remerciements
 
 - **Google Gemini** pour l'API d'intelligence artificielle
 - **Flask** et sa communauté
@@ -707,3 +707,4 @@ Pour toute question ou problème :
 ---
 
 **Made with 💚 for sustainable travel** 
+
