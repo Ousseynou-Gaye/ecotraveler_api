@@ -92,7 +92,7 @@ Le projet respecte les **meilleures pratiques Flask** :
 
 ### 1. Cloner le repository
 ```bash
-git clone https://github.com/votre-username/ecotraveler-api.git
+git clone https://https://github.com/Ousseynou-Gaye/ecotraveler_api.git
 cd ecotraveler-api
 ```
 
@@ -685,7 +685,7 @@ Ce projet est un projet académique réalisé dans le cadre d'un examen de fin d
 
 ##  Auteur
 
-- **Ousseynou GAYE** - *Développement* - [VotreGitHub](https://github.com/votre-username)
+- **Ousseynou GAYE** - *Développement* - [VotreGitHub](https://https://github.com/Ousseynou-Gaye)
 
 ---
 
@@ -702,7 +702,7 @@ Ce projet est un projet académique réalisé dans le cadre d'un examen de fin d
 ##  Support
 
 Pour toute question ou problème :
-- Ouvrez une [issue](https://github.com/votre-username/ecotraveler-api/issues)
+- Ouvrez une [issue](https://github.com/Ousseynou-Gaye/ecotraveler_api/issues)
 - Contactez : ousseynougaye1999@gmail.com
 ---
 
